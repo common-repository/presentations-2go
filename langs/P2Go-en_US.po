@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Engels\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-24 12:59+0100\n"
+"PO-Revision-Date: 2014-09-24 13:02+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\apps\\wordpress\\htdocs\\wp-content\\plugins"
+"\\P2Go-Rich-Media-Recording\\\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-p2go-rich-media-recording.php:103
+msgid ""
+"Error: Something went wrong, make sure you provided the correct parameters"
+msgstr ""
+"Error: Something went wrong, make sure you provided the correct parameters"
+
+#: class-p2go-rich-media-recording.php:326
+msgid "settings_page_description"
+msgstr "Enter your settings here"
+
+#: class-p2go-rich-media-recording.php:481
+msgid "Server Address"
+msgstr "Server address"
+
+#: class-p2go-rich-media-recording.php:487
+msgid "description_server_address"
+msgstr ""
+"Enter the URL of your Presentations 2Go server including http:// or https://"
+
+#: class-p2go-rich-media-recording.php:488
+msgid "Secret Key"
+msgstr "Secret Key"
+
+#: class-p2go-rich-media-recording.php:494
+msgid "description_secret_key"
+msgstr "You can find your secret key at the server settings after log in"
+
+#: class-p2go-rich-media-recording.php:495
+msgid "Expiration(hours)"
+msgstr "Expiration in hours"
+
+#: class-p2go-rich-media-recording.php:501
+msgid "description_expiration"
+msgstr "Time before the video expires, 0 is infinite"
+
+#: class-p2go-rich-media-recording.php:502
+msgid "Total Results"
+msgstr "Total amount of results"
+
+#: class-p2go-rich-media-recording.php:508
+msgid "description_total_results"
+msgstr "Total amount of videos to embed on the page"
+
+#: class-p2go-rich-media-recording.php:509
+msgid "size"
+msgstr "size"
+
+#: class-p2go-rich-media-recording.php:509
+msgid "small"
+msgstr "small "
+
+#: class-p2go-rich-media-recording.php:509
+msgid "medium"
+msgstr "medium "
+
+#: class-p2go-rich-media-recording.php:509
+msgid "large"
+msgstr "large "
+
+#: class-p2go-rich-media-recording.php:509
+msgid "description_size"
+msgstr "the size of the embedded video"
+
+#: class-p2go-rich-media-recording.php:510
+msgid "layout"
+msgstr "layout"
+
+#: class-p2go-rich-media-recording.php:510
+msgid "text"
+msgstr "text "
+
+#: class-p2go-rich-media-recording.php:510
+msgid "thumbs"
+msgstr "Thumbs "
+
+#: class-p2go-rich-media-recording.php:510
+msgid "tile"
+msgstr "Tile "
+
+#: class-p2go-rich-media-recording.php:510
+msgid "description_display"
+msgstr "Choose how the embedded video is displayed inside the page"
+
+#: class-p2go-rich-media-recording.php:511
+msgid "Query wizard"
+msgstr "Query wizard"
+
+#: class-p2go-rich-media-recording.php:513
+msgid "Add Criteria"
+msgstr "Add criteria"
+
+#: class-p2go-rich-media-recording.php:514
+msgid "Language"
+msgstr "language"
+
+#: class-p2go-rich-media-recording.php:515
+msgid "accentcolor"
+msgstr "accent color"
+
+#: class-p2go-rich-media-recording.php:516
+msgid "backgroundcolor"
+msgstr "background color"
+
+#: class-p2go-rich-media-recording.php:517
+msgid "autoresize"
+msgstr "automatic resize"
+
+#: class-p2go-rich-media-recording.php:518
+msgid "minimal buttons"
+msgstr "minimal buttons"
+
+#: class-p2go-rich-media-recording.php:519
+msgid "splashscreen"
+msgstr "Splashscreen image"
+
+#: class-p2go-rich-media-recording.php:520
+msgid "display"
+msgstr "display"
+
+#: class-p2go-rich-media-recording.php:521
+msgid "display_1"
+msgstr "Default"
+
+#: class-p2go-rich-media-recording.php:522
+msgid "display_2"
+msgstr "video right, slide left"
+
+#: class-p2go-rich-media-recording.php:523
+msgid "display_3"
+msgstr "full size slide, small video"
+
+#: class-p2go-rich-media-recording.php:524
+msgid "display_4"
+msgstr "full size video, small slides"
+
+#: class-p2go-rich-media-recording.php:525
+msgid "display_5"
+msgstr "equal height"
+
+#: class-p2go-rich-media-recording.php:526
+msgid "display_6"
+msgstr "Video only"
+
+#: class-p2go-rich-media-recording.php:527
+msgid "display_7"
+msgstr "Slide only"
+
+#: class-p2go-rich-media-recording.php:529
+msgid "Submit"
+msgstr "Insert"
+
+#: class-p2go-rich-media-recording.php:529
+msgid "Clear"
+msgstr "Clear"
+
+#: class-p2go-rich-media-recording.php:537
+#: class-p2go-rich-media-recording.php:653
+msgid "Title"
+msgstr "Title"
+
+#: class-p2go-rich-media-recording.php:538
+#: class-p2go-rich-media-recording.php:654
+msgid "Contributor"
+msgstr "Contributor"
+
+#, fuzzy
+#~ msgid "description_layout"
+#~ msgstr "Choose how the embedded video is dplayed inside the page"
+
+#~ msgid "Results per page"
+#~ msgstr "Results per page"
+
+#~ msgid "Preview"
+#~ msgstr "Preview"

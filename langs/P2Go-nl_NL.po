@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Test\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-24 12:32+0100\n"
+"PO-Revision-Date: 2014-09-24 12:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: test <k@k.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\apps\\wordpress\\htdocs\\wp-content\\plugins"
+"\\P2Go-Rich-Media-Recording\\\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-p2go-rich-media-recording.php:103
+msgid ""
+"Error: Something went wrong, make sure you provided the correct parameters"
+msgstr "Fout: Er is iets fout gegaan, controleer of alles goed is ingesteld."
+
+#: class-p2go-rich-media-recording.php:326
+msgid "settings_page_description"
+msgstr "Stel hier de instellingen in."
+
+#: class-p2go-rich-media-recording.php:481
+msgid "Server Address"
+msgstr "Server adres"
+
+#: class-p2go-rich-media-recording.php:487
+msgid "description_server_address"
+msgstr "U Presentations 2Go server inclusief http:// of https://"
+
+#: class-p2go-rich-media-recording.php:488
+msgid "Secret Key"
+msgstr "Sleutel"
+
+#: class-p2go-rich-media-recording.php:494
+msgid "description_secret_key"
+msgstr ""
+"De sleutel kan je vinden na het inloggen op je Presentations 2Go server."
+
+#: class-p2go-rich-media-recording.php:495
+msgid "Expiration(hours)"
+msgstr "Verlopen(in uren)"
+
+#: class-p2go-rich-media-recording.php:501
+msgid "description_expiration"
+msgstr "Tijd voordat de video verloopt, 0 is standaard."
+
+#: class-p2go-rich-media-recording.php:502
+msgid "Total Results"
+msgstr "Totaal aantal resultaten"
+
+#: class-p2go-rich-media-recording.php:508
+msgid "description_total_results"
+msgstr "Totaal aantal videos om in de pagina te plaatsten."
+
+#: class-p2go-rich-media-recording.php:509
+msgid "size"
+msgstr "grootte"
+
+#: class-p2go-rich-media-recording.php:509
+msgid "small"
+msgstr "klein"
+
+#: class-p2go-rich-media-recording.php:509
+msgid "medium"
+msgstr "gemiddeld"
+
+#: class-p2go-rich-media-recording.php:509
+msgid "large"
+msgstr "groot"
+
+#: class-p2go-rich-media-recording.php:509
+msgid "description_size"
+msgstr "de grote van de videos"
+
+#: class-p2go-rich-media-recording.php:510
+msgid "layout"
+msgstr "lay-out"
+
+#: class-p2go-rich-media-recording.php:510
+msgid "text"
+msgstr "tekst"
+
+#: class-p2go-rich-media-recording.php:510
+msgid "thumbs"
+msgstr "Thumbs"
+
+#: class-p2go-rich-media-recording.php:510
+msgid "tile"
+msgstr "tegel"
+
+#: class-p2go-rich-media-recording.php:510
+msgid "description_display"
+msgstr "Kies hoe de videos worden weergegeven binnen de painga"
+
+#: class-p2go-rich-media-recording.php:511
+msgid "Query wizard"
+msgstr "Query Wizard"
+
+#: class-p2go-rich-media-recording.php:513
+msgid "Add Criteria"
+msgstr "Voeg Criterium toe"
+
+#: class-p2go-rich-media-recording.php:514
+msgid "Language"
+msgstr "Taal"
+
+#: class-p2go-rich-media-recording.php:515
+msgid "accentcolor"
+msgstr "accent kleur"
+
+#: class-p2go-rich-media-recording.php:516
+msgid "backgroundcolor"
+msgstr "achtergrond kleur"
+
+#: class-p2go-rich-media-recording.php:517
+msgid "autoresize"
+msgstr "automatisch schalen"
+
+#: class-p2go-rich-media-recording.php:518
+msgid "minimal buttons"
+msgstr "minimale knoppen"
+
+#: class-p2go-rich-media-recording.php:519
+msgid "splashscreen"
+msgstr "Splash logo"
+
+#: class-p2go-rich-media-recording.php:520
+msgid "Submit"
+msgstr "Invoeren"
+
+#: class-p2go-rich-media-recording.php:520
+msgid "Clear"
+msgstr "Velden legen"
+
+#: class-p2go-rich-media-recording.php:528
+#: class-p2go-rich-media-recording.php:643
+msgid "Title"
+msgstr "Titel"
+
+#: class-p2go-rich-media-recording.php:529
+#: class-p2go-rich-media-recording.php:644
+msgid "Contributor"
+msgstr "Bijdrager"
+
+#~ msgid "Results per page"
+#~ msgstr "Aantal resultaten per pagina"
+
+#~ msgid "Preview"
+#~ msgstr "Bekijk"
